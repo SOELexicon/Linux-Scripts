@@ -16,3 +16,4 @@ while true; do
       eval "${v}=\$r"
     done <<< "$find"
   done
+done
